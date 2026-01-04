@@ -43,8 +43,10 @@ This README consolidates **everything you need in one place**, straight from rea
 
 ---
 
+```md
 ## ⚙ Getting Started
 
+### Install
 ```bash
 npm install @lightningjs/blits
 
